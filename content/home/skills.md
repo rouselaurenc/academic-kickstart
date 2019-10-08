@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "python"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = "Python"
   description = "80%"
 
 [[feature]]
   icon = "r-project"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = "R Studio"
   description = "80%"
 
@@ -34,19 +34,19 @@ subtitle = ""
 
 [[feature]]
   icon = "reddit-alien"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = "Online Communities"
   description = "100%"
 
 [[feature]]
   icon = "mandalorian"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = "Fandom"
   description = "100%"
 
 [[feature]]
   icon = "d-and-d"
-  icon_pack = "brands"
+  icon_pack = "fab"
   name = "Dungeons and Dragons"
   description = "50%"
 
