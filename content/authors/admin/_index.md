@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the intersection of fan studies and disability research, online fan communities, and hierarchies of fandom class.
+bio: first year PhD student, lover of Costco free samples, fan scholar, probably drinking coffee right now
 
 interests:
-- Fan Studies
-- Disability Research
-- Hierarchies of Fandom Class
+- Fan Fiction
+- Disability Studies
+- Online Fan Social Media Communities
+- Fandom and Labor
 
 education:
   courses:
@@ -42,9 +43,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rouselaurenc
