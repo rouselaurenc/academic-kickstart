@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   * Completed research duties such as transcribing interviews, compiling literature reviews, surveying target populations, and hosting interviews with participants
   * Reviewed the Bachelors program assessment to update and see if the program met standards
   * Collaborated with the Undergraduate Programs team and developed new standards for the 2020 Bachelors program assessment based off the 2019 result
+  ""
 
 +++
 
