@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://writingandrhetoric.cah.ucf.edu/"
   location = "Orlando FL"
   date_start = "Aug 2019"
-  date_end = "Present"
+  date_end = ""
   description = "Graduate Research Assistant for Dr. Angela Rounsaville and Dr. Laurie Pinkert"
 
   * something
