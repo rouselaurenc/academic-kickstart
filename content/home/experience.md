@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   date_start = "Aug 2019"
   date_end = ""
   description = """Graduate Research Assistant for Dr. Angela Rounsaville and Dr. Laurie Pinkert"""
-  Responsibilities include:
-
+  Responsibilities include=
 
   * something
   * other something
