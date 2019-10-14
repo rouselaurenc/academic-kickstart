@@ -18,21 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Graduate Research Assistant"
+  company = "Department of Writing and Rhetoric at UCF"
+  company_url = "https://writingandrhetoric.cah.ucf.edu/"
+  location = "Orlando FL"
+  date_start = "Aug 2019"
   date_end = ""
+<<<<<<< HEAD
   description = """
   Responsibilities include:
 
   * Analysing
   * Modelling
   * Deploying
+=======
+  description = """Graduate Research Assistant for Dr. Angela Rounsaville and Dr. Laurie Pinkert"""
+  Responsibilities include =
+  * something
+  * other something
+  * other other
+>>>>>>> 22fd5bde845bbd394433c099dffec95c735b82e9
   """
 
++++
+
 [[experience]]
+<<<<<<< HEAD
   title = "Professor"
   company = "University X"
   company_url = ""
@@ -40,3 +51,15 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+=======
+  title = "Graduate Assistant"
+  company = """University Center for Writing Based Learning at DePaul University"""
+  company_url = "https://condor.depaul.edu/writing/index.html"
+  location = "Chicago IL"
+  date_start = "Aug 2018"
+  date_end = "Aug 2019"
+  description = """Peer Tutor, Writing Fellow, & Writing Groups Graduate Assistant"""
+
+
++++
+>>>>>>> 22fd5bde845bbd394433c099dffec95c735b82e9
