@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Orlando FL"
   date_start = "Aug 2019"
   date_end = ""
-  description = "Graduate Research Assistant for Dr. Angela Rounsaville and Dr. Laurie Pinkert"
+  description = """Graduate Research Assistant for Dr. Angela Rounsaville and Dr. Laurie Pinkert"""
 
   * something
   * other something
