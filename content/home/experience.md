@@ -25,6 +25,8 @@ date_format = "Jan 2006"
   date_start = "Aug 2019"
   date_end = ""
   description = """Graduate Research Assistant for Dr. Angela Rounsaville and Dr. Laurie Pinkert"""
+  Responsibilities include:
+
 
   * something
   * other something
@@ -35,11 +37,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Graduate Assistant"
-  company = "University Center for Writing Based Learning at DePaul University"
+  company = """University Center for Writing Based Learning at DePaul University"""
   company_url = "https://condor.depaul.edu/writing/index.html"
   location = "Chicago IL"
   date_start = "Aug 2018"
-  date_end = "Aug 2018"
+  date_end = "Aug 2019"
   description = """Peer Tutor, Writing Fellow, & Writing Groups Graduate Assistant"""
 
 
