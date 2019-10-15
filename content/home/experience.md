@@ -18,25 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Research Assistant"
-  company = "Department of Writing and Rhetoric at UCF"
-  company_url = ""
-  location = "Orlando"
-  date_start = "2019-08-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+title = "Graduate Research Assistant"
+company = "University of Central Florida"
+company_url = ""
+location = "Florida"
+date_start = "2019-08-01"
+date_end = ""
+description = """Graduate Research Assistant in Department of Writing and Rhetoric"""
 
-  * Completed research duties such as transcribing interviews, compiling literature reviews, surveying target populations, and hosting interviews with participants
-  * Reviewed the Bachelors program assessment to update and see if the program met standards
-  * Collaborated with the Undergraduate Programs team and developed new standards for the 2020 Bachelors program assessment based off the 2019 results
-  """
+[[experience]]
+title = "Graduate Assistant"
+company = "DePaul University Writing Center"
+company_url = ""
+location = "Chicago"
+date_start = "2019-08-01"
+date_end = "2018-08-01"
+description = """Peer Tutor, Writing Fellow and Graduate Assistant for Writing Groups"""
 
- [[experience]]
-   title = "Professor"
-   company = "University X"
-   company_url = ""
-   location = "California"
-   date_start = "2016-01-01"
-   date_end = "2016-12-31"
-   description = """Taught electronic engineering an"""
+[[experience]]
+title = "Student Assistant"
+company = "DePaul University"
+company_url = ""
+location = "Chicago"
+date_start = "2017-08-01"
+date_end = "2018-08-01"
+description = """Student Assistant in Center for Educational Technology"""
+
+
++++
