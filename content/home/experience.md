@@ -27,19 +27,29 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Research
-  * Analyzing
-  * Developing
+  * Completed research duties such as transcribing interviews, compiling literature reviews, surveying target populations, and hosting interviews with participants
+  * Reviewed the Bachelors program assessment to update and see if the program met standards
+  * Collaborated with the Undergraduate Programs team and developed new standards for the 2020 Bachelors program assessment based off the 2019 results
   """
 
 
 +++
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Assistant"
+  company = "University Center for Writing-based Learning"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chicago"
+  date_start = "2018-08-01"
+  date_end = "2019-08-01"
+  description = """Peer Tutor, Writing Fellow & Writing Groups Graduate Assistant
+  Responsibilities include:
+
+  * Tutored college and professional students in varied genres of academic and professional writing such as essays, resumes, and applications
+  * Connected the English language to native languages for ELL (English Language Learners) students in both conversation style appointments and written feedback appointments
+  * Utilized MLA, APA, AP style, Chicago, and Turabian style citations in face-to-face, written feedbacks, online real time, and screencast video feedback appointments
+  * Encouraged writers to embrace and discover their academic and creative voices, while also helping them distinguish between the two in tutoring sessions
+  * Collaborated with different disciplines and colleges through DePaul University, as a way of facilitating writing groups for graduate and undergraduate students
+  * Oversaw a team of 10-15 peer facilitators, while developing training for them and adapting to the logistical needs of each facilitator and their writing group
+
+  """
