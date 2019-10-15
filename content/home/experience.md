@@ -32,9 +32,6 @@ date_format = "Jan 2006"
   * Collaborated with the Undergraduate Programs team and developed new standards for the 2020 Bachelors program assessment based off the 2019 results
   """
 
-
-+++
-
 [[experience]]
   title = "Graduate Assistant"
   company = "University Center for Writing-based Learning"
