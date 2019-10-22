@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: """Strategies for Supporting Visual and Kinesthetic Learning Styles in All Parts of the Writing Process"""
-event: """International Writing Centers Association (IWCA) National Conference"""
+title: "Strategies for Supporting Visual and Kinesthetic Learning Styles in All Parts of the Writing Process"
+event: "International Writing Centers Association (IWCA) National Conference"
 event_url:
 location: Columbus
 address:
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-18
+date: 2019-10-18T20:24:31-04:00
 #date_end:
 all_day: true
 

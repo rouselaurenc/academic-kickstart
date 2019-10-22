@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: """The Fanfiction Reading Guide: The Role of Multimedia in Producing Fic and Its Use as a Close Reading Tool"""
+title: "The Fanfiction Reading Guide: The Role of Multimedia in Producing Fic and Its Use as a Close Reading Tool"
 event: PCA/ACA National Conference
 event_url:
 location: Washington DC

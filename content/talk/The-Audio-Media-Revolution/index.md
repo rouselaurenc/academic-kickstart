@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: """The Audio Media Revolution: The Role of Podcasts in Creating Fandom, Fanon, and Collective Meaning Making"""
+title: "The Audio Media Revolution: The Role of Podcasts in Creating Fandom, Fanon, and Collective Meaning Making"
 event: Fan Studies Network North America
 event_url:
 location: Chicago

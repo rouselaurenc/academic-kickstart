@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: """Fan Fiction in the Renaissance Classroom: Using Transformative Works to Help Students Take Ownership of Past Texts"""
+title: "Fan Fiction in the Renaissance Classroom: Using Transformative Works to Help Students Take Ownership of Past Texts"
 event: DePaul Spring English Conference 2019
 event_url:
 location: Chicago
