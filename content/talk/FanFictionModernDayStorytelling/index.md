@@ -49,7 +49,7 @@ image:
 url_slides: https://www.slideshare.net/LaurenRouse2/the-fan-fiction-reading-guide
 
 url_code:
-url_pdf: https://docs.google.com/document/d/1fHzc1-wGINEzuFd2ifaZu1niB7WcVb_cVzn9EqGQCiM/edit?usp=sharing
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).
