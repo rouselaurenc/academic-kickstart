@@ -3,7 +3,7 @@
 
 title: "The Audio Media Revolution: The Role of Podcasts in Creating Fandom, Fanon, and Collective Meaning Making"
 event: Fan Studies Network North America
-event_url:
+event_url: https://www.slideshare.net/LaurenRouse2/the-audio-media-revolution-the-influences-of-podcasts-on-the-creation-of-fandom-fanon-and-collective-meaning-making
 location: Chicago
 address:
   street:
