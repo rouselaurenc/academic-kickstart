@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Lauren Rouse is a first year student at the University of Central Florida in the Texts & Technology PhD. She studies fans and stuff.
+Lauren Rouse is a first year student at the University of Central Florida in the Texts & Technology PhD. Her research interests include the intersections of ability and fandom, as well as the role of fan fiction in discussions of trauma. She is a fan of Costco free samples, secondhand bookstores, and DIY projects and is probably drinking coffee right now.
