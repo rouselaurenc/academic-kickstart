@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://www.slideshare.net/LaurenRouse2/strategies-for-supporting-visual-and-kinesthetic-learning-styles-in-all-parts-of-the-writing-process-1
 
 url_code:
-url_pdf:
+url_pdf: https://drive.google.com/open?id=1hvlEkBB3XG-L5PJ3U1q674ts6jX7ZuyxmJ9PQrQkY-E
 url_video:
 
 # Markdown Slides (optional).

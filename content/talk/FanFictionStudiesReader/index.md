@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://www.slideshare.net/LaurenRouse2/fan-fiction-in-the-renaissance-classroom-using-transformative-works-to-help-students-take-ownership-of-past-texts
 
 url_code:
-url_pdf:
+url_pdf: https://docs.google.com/document/d/1hhgi2f1Zc5RYJVszQT7ldqLtZWKuNm8iFJnH2N7AG30/edit?usp=sharing
 url_video:
 
 # Markdown Slides (optional).

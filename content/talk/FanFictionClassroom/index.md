@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://www.slideshare.net/LaurenRouse2/modern-day-storytelling
 
 url_code:
 url_pdf:

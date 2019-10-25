@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: https://www.slideshare.net/LaurenRouse2/the-fan-fiction-reading-guide
 
 url_code:
-url_pdf:
+url_pdf: https://docs.google.com/document/d/1fHzc1-wGINEzuFd2ifaZu1niB7WcVb_cVzn9EqGQCiM/edit?usp=sharing
 url_video:
 
 # Markdown Slides (optional).
