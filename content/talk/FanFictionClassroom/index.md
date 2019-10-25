@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Fan Fiction: Modern Day Story Telling"
-event: DePaul Spring English Conference
+event: DePaul Spring English Conference 2018
 event_url:
 location: Chicago
 address:
