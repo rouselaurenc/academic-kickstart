@@ -18,13 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: first year PhD student, lover of Costco free samples, fan scholar, probably drinking coffee right now
+bio: second year PhD student, lover of Costco free samples, fan scholar, probably drinking coffee right now
 
 interests:
 - Fan Fiction
-- Disability Studies
-- Online Fan Social Media Communities
-- Fandom and Labor
+- Disability Studies & Crip Theory
+- Critical Code Studies
+- Queer Theory
 
 education:
   courses:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Lauren Rouse is a first year student at the University of Central Florida in the Texts & Technology PhD. Her research interests include the intersections of ability and fandom, as well as the role of fan fiction in discussions of trauma. She is a fan of Costco free samples, secondhand bookstores, and DIY projects and is probably drinking coffee right now.
+Lauren Rouse is a second year student at the University of Central Florida in the Texts & Technology PhD. Her research focuses on the rhetoric and discourses that fans use in online communities, specifically in conversations about and fanworks on disability, mental illness, and neurodiversity. She is a fan of Costco free samples, secondhand bookstores, and DIY projects and is probably drinking coffee right now.

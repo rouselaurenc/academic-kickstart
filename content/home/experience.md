@@ -22,8 +22,17 @@ title = "Graduate Research Assistant"
 company = "University of Central Florida"
 company_url = ""
 location = "Florida"
+date_start = "2020-01-01"
+date_end = "2020-08-01"
+description = """Graduate Research Assistant in Texts and Technology department"""
+
+[[experience]]
+title = "Graduate Research Assistant"
+company = "University of Central Florida"
+company_url = ""
+location = "Florida"
 date_start = "2019-08-01"
-date_end = ""
+date_end = "2020-08-01"
 description = """Graduate Research Assistant in Department of Writing and Rhetoric"""
 
 [[experience]]
