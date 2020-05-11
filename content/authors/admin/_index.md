@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Lauren Rouse is a second year student at the University of Central Florida in the Texts & Technology PhD. Her research focuses on the rhetoric and discourses that fans use in online communities, specifically in conversations about and fanworks on disability, mental illness, and neurodiversity. She is a fan of Costco free samples, secondhand bookstores, and DIY projects and is probably drinking coffee right now.
+Lauren Rouse is a second year student at the University of Central Florida in the Texts & Technology PhD. Her research focuses on the rhetoric and discourses that fans use in online communities, specifically in conversations about and fan works on disability, mental illness, and neurodiversity. She is a fan of Costco free samples, secondhand bookstores, and DIY projects and is probably drinking coffee right now.
