@@ -21,7 +21,7 @@ date: 2020-07-16T20:35:45-04:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-03T20:35:45-04:00
+publishDate: 2020-07-03
 
 authors: [Lauren Rouse]
 tags: []
