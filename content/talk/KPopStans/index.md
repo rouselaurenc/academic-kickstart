@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quote Tweet, Don’t Reply!”: The History of K-Pop Fandoms’ Twitter AUs and Roots in Interactive Storytelling"
+title: "'Quote Tweet, Don’t Reply!': The History of K-Pop Fandoms’ Twitter AUs and Roots in Interactive Storytelling"
 event: Electronic Literature Organization 2020
 event_url: https://elo.cah.ucf.edu/
 location: Virtual

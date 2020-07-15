@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "'Here’s How TikTok Saved My Life’: #Healthcare and #Medical TikToks as Public Health Announcements"
+title: "'Here’s How TikTok Saved My Life': #Healthcare and #Medical TikToks as Public Health Announcements"
 event: International Conference on Social Media and Society
 event_url: https://socialmediaandsociety.org/
 location: Virtual
