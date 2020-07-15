@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Quote Tweet, Don’t Reply!”: The History of K-Pop Fandoms’ Twitter AUs and Roots in Interactive Storytelling"
-event: Electronic Literature Organization 2020
-event_url: https://elo.cah.ucf.edu/
+title: "'Here’s How TikTok Saved My Life’: #Healthcare and #Medical TikToks as Public Health Announcements"
+event: International Conference on Social Media and Society
+event_url: https://socialmediaandsociety.org/
 location: Virtual
 address:
   street:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-16T20:35:45-04:00
+date: 2020-07-22T20:35:45-04:00
 #date_end: 2019-10-21T20:35:45-04:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-03
+publishDate: 2020-07-15
 
 authors: [Lauren Rouse]
 tags: []
@@ -46,11 +46,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://www.slideshare.net/secret/see05eclRuYNiQ
+url_slides: https://www.slideshare.net/secret/LcJ1U4hGrEH3A
 
 url_code:
-url_pdf: https://docs.google.com/document/d/1AN_YOSqpAPYBOyHgKTkIg9JhljtgkaOmVk4O5CANwTU/edit?usp=sharing
-url_video: https://stars.library.ucf.edu/elo2020/asynchronous/talks/23/
+url_pdf: https://docs.google.com/document/d/179wdgJzFfvahFyNBh7OOmoV4fcSXCV2QkNEC3YLGuBA/edit?usp=sharing
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
