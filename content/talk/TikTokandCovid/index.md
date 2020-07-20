@@ -50,7 +50,7 @@ url_slides: https://www.slideshare.net/secret/LcJ1U4hGrEH3A
 
 url_code:
 url_pdf: https://docs.google.com/document/d/179wdgJzFfvahFyNBh7OOmoV4fcSXCV2QkNEC3YLGuBA/edit?usp=sharing
-url_video:
+url_video: https://www.youtube.com/watch?v=jpuZWP2a27Q
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
