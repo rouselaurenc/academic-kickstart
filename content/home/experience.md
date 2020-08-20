@@ -22,9 +22,18 @@ title = "Graduate Research Assistant"
 company = "University of Central Florida"
 company_url = ""
 location = "Florida"
+date_start = "2020-08-01"
+date_end = "2021-05-01"
+description = """Graduate Research Assistant in Texts and Technology department with Dr. Salter."""
+
+[[experience]]
+title = "Graduate Research Assistant"
+company = "University of Central Florida"
+company_url = ""
+location = "Florida"
 date_start = "2020-01-01"
 date_end = "2020-08-01"
-description = """Graduate Research Assistant in Texts and Technology department"""
+description = """Graduate Research Assistant in Texts and Technology department with Drs. Salter and Stanfill. Assisted with the NEH Summer Institute on Understanding Digital Culture--syllabus and institute content can be found at: https://understandingdigitalculture.hcommons.org/"""
 
 [[experience]]
 title = "Graduate Research Assistant"
@@ -33,16 +42,16 @@ company_url = ""
 location = "Florida"
 date_start = "2019-08-01"
 date_end = "2020-08-01"
-description = """Graduate Research Assistant in Department of Writing and Rhetoric"""
+description = """Graduate Research Assistant in Department of Writing and Rhetoric with Drs. Pinkert and Rounsaville."""
 
 [[experience]]
 title = "Graduate Assistant"
-company = "DePaul University Writing Center"
+company = "DePaul University Center for Writing-based Learning"
 company_url = ""
 location = "Chicago"
 date_start = "2019-08-01"
 date_end = "2018-08-01"
-description = """Peer Tutor, Writing Fellow and Graduate Assistant for Writing Groups"""
+description = """Peer Tutor, Writing Fellow and Graduate Assistant for Writing Groups. Worked with Erin Herrmann, Associated Director of UCWbL."""
 
 [[experience]]
 title = "Student Assistant"
